@@ -1,0 +1,6 @@
+
+farra	{https://ki.mit.edu/people/faculty/cima=1}
+farrel	{http://architecture.mit.edu/architecture-and-urbanism/news/students-faculty-and-alumni-return-2018-venice-architecture-biennale=2, http://global.mit.edu/aggregator/sources/1=2}
+farrell	{http://sap.mit.edu/people/students=1}
+farrington	{https://ki.mit.edu/people/administration=1}
+farrok	{http://energy.mit.edu/area/conventional-energy/page/2/=1, http://energy.mit.edu/area/energy-efficiency/page/2/=1, http://energy.mit.edu/profile/farrokh-sheibani/=2}
